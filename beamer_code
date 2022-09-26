@@ -1,0 +1,47 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{CambridgeUS}
+\title[python]{WELCOME TO THE WORLD OF PROGRAMMING}
+
+\author[Left text]{ANUSHA KOPPULA \and \\
+        \vspace{5pt}
+        ANJALI KOPPULA 
+}
+\date{\today}
+\institute{RGUKT BASAR}
+\titlegraphic{
+ \includegraphics[width=0.1\textwidth, right]{Image.jpeg}
+}
+\begin{document}
+
+\titlepage
+
+\begin{frame}{introduction to python programming}
+ \begin{itemize}
+    \item  \LARGE{WHY \textbf{PYTHON??} \line(1,0){50}}
+ \end{itemize}
+
+
+\end{frame}
+\begin{abstract}
+  content
+\end{abstract}
+anusha koppula
+\section{why python}
+% \logo{
+%   \includegraphics[width=0.2\linewidth]{Image.jpeg}
+%  }
+\begin{frame}
+    \begin{table}
+    \begin{tabular}{|c|c|r|}
+    \hline
+      s/no   & name &id \\ \hline
+       42 & b192320 & anusha koppula \\
+    \hline
+    \end{tabular}
+    \end{table}
+    
+\end{frame}
+\paragraph{saghsvduihk}
+\subparagraph{agvuofjnsk}
+\end{document}
